@@ -167,10 +167,10 @@ h6 {
 }
 
 .header .logo h1 {
-  font-family: 'Amsterdam';
+  font-family: "Oleo Script", serif;
   font-size: 30px;
   margin: 0;
-  font-weight: 700;
+  font-weight: 500;
   color: var(--heading-color);
 }
 
