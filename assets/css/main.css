@@ -167,10 +167,10 @@ h6 {
 }
 
 .header .logo h1 {
-  font-family: "Oleo Script", serif;
+  font-family: "Raleway", serif;
   font-size: 30px;
   margin: 0;
-  font-weight: 500;
+  font-weight: 700;
   color: var(--heading-color);
 }
 
@@ -973,29 +973,27 @@ section,
 }
 
 .testimonials .testimonial-item .testimonial-img {
+  text-align: right;
   width: 90px;
   border-radius: 50%;
-  margin: -40px 0 0 40px;
+  margin-top: -40px;
   position: relative;
   z-index: 2;
   border: 6px solid var(--background-color);
 }
-
+/* 
 .testimonials .testimonial-item h3,
 .testimonials .testimonial-item h4 {
-  margin-top: 100px;
-}
+} */
 
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
-  margin: 10px 0 5px 45px;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
-  margin: 0 0 0 45px;
 }
 
 
@@ -1033,7 +1031,7 @@ section,
 .testimonial-item img {
   width: 100%;
   height: auto;
-  display: block;
+  /* display: block; */
   margin: 0 auto;
 }
 .testimonial-item span {
