@@ -816,7 +816,6 @@ section,
   padding-bottom: 1.25rem;
   color: #fff;
   text-align: center;
-  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);;
 }
 /*--------------------------------------------------------------
 # About Section
@@ -1348,7 +1347,7 @@ section,
 .portfolio .portfolio-content .portfolio-info .preview-link,
 .portfolio .portfolio-content .portfolio-info .details-link {
   position: absolute;
-  left: calc(50% - 40px);
+  left: calc(50%);
   font-size: 26px;
   top: calc(50% - 14px);
   color: #fff;
