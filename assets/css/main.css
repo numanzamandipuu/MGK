@@ -1524,6 +1524,20 @@ section,
   margin-right: 15px;
 }
 
+.contact .info-item .icon-img {
+  color: var(--contrast-color);
+  /* background-color: var(--accent-color); */
+  width: 56px;
+  height: 56px;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
 .contact .info-item h3 {
   font-size: 18px;
   font-weight: 700;
